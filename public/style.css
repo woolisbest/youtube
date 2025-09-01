@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  box-shadow: 0 0 10px #ccc;
+}
+form {
+  display: flex;
+  gap: 10px;
+}
+input {
+  flex: 1;
+  padding: 10px;
+}
+button {
+  padding: 10px 20px;
+}
+#results {
+  margin-top: 20px;
+}
+.video-item {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.video-item img {
+  width: 120px;
+  margin-right: 10px;
+}
