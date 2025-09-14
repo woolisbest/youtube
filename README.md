@@ -8,6 +8,6 @@
 
 ## 🚀 セットアップ方法
 
-1. このリポジトリをクローン
+1. このリポジトリをフォーク
 2. `script.js` の `apiKey` を自分の [YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com) キーに置き換える
 3. `index.html` をブラウザで開く
