@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_API_KEY_HERE'; // ここに自分のAPIキーを入力
+const apiKey = 'YOUR_API_KEY_HERE'; // ここに自分のAPIキーを入力してください。
 const searchForm = document.getElementById('search-form');
 const searchInput = document.getElementById('search-input');
 const resultsDiv = document.getElementById('results');
